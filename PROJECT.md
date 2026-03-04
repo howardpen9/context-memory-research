@@ -3,7 +3,7 @@
 **Status:** ACTIVE  
 **Created:** 2026-03-04  
 **Owner:** Luna 🌙  
-**GitHub:** https://github.com/openclaw/context-memory-research
+**GitHub:** https://github.com/howardpen9/context-memory-research
 
 ## 概述
 
